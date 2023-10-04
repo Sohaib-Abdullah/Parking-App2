@@ -1,0 +1,21 @@
+.homeHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    font-size: large;
+    padding: 10px;
+   
+}
+.logout {
+    padding: 0px;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 5px;
+    border: none;
+    background-color: rgb(231, 236, 240);
+   
+}
+.link {
+    text-decoration: none;
+}

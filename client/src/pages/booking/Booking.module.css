@@ -1,0 +1,60 @@
+.bookParkingContainer {
+    display: flex;
+    flex-direction: column;
+   align-items: center;
+   justify-content: center;
+}
+.selectedMenu {
+    display: flex;
+    
+}
+.selectedArea {
+    font-size: 18px;
+
+    font-weight: bold;
+    margin: 20px;
+}
+.selectedArea  select {
+    width: 200px;
+    height: 35px;
+   
+}
+.selectedArea  select option {
+    font-size: 22px;
+} 
+.selectedSlot {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 20px
+}
+
+.selectedSlot  select {
+    width: 200px;
+    height: 35px;
+    margin: 0px 10px;
+}
+.selectedSlot  select option {
+
+    font-size: 22px;
+} 
+.TimeMenu {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 40px;
+}
+.TimeInput {
+    width: 200px;
+    height: 30px;
+    font-size: 22px;
+}
+.bookingButton {
+    margin-top: 40px;
+    padding: 10px;
+    width: 100px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}

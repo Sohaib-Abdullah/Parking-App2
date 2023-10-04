@@ -1,0 +1,43 @@
+/* Apply styles to the table container */
+.bookingView {
+    display: flex;
+    justify-content: center;
+ 
+    height: 100vh;
+ 
+  }
+  
+  /* Apply styles to the table */
+  table {
+    width: 80%;
+    border-collapse: collapse;
+    margin: 20px;
+ 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Style for table header row */
+  th {
+
+    font-weight: bold;
+    text-align: left;
+  
+    border-bottom: 2px solid #dddddd;
+  }
+  
+  /* Style for table data rows */
+  td {
+  
+  
+  }
+  
+  /* Apply alternating row colors */
+  tr:nth-child(even) {
+    
+  }
+  
+  /* Hover effect for table rows */
+  tr:hover {
+    
+  }
+  

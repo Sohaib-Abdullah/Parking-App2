@@ -1,0 +1,17 @@
+.parkingLinks {
+    margin: 20px;
+}
+.parkingLinks  ul  {
+    display: flex;
+    gap: 30px;
+    text-decoration: none;
+    list-style: none;
+}
+.parkingLinks  ul li  {
+    text-decoration: none;
+
+}
+.link {
+    text-decoration: none;
+}
+
