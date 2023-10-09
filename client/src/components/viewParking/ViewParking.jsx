@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 
 import {NavLink, Outlet, } from "react-router-dom";
-import Area from '../area/Area';
+
 
 import axios from "axios";
 import ParkingArea from '../paringArea/ParkingArea';

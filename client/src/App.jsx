@@ -6,8 +6,7 @@ import ParkingLinks from "./components/parkingLinks/ParkingLinks";
 import Booking from "./pages/booking/Booking";
 import ViewBooking from "./pages/view/ViewBooking";
 import ViewParking from "./components/viewParking/ViewParking";
-import Area1 from "./components/area1/Area1";
-import Area from "./components/area/Area";
+
 import { useContext } from "react";
 import { AuthContext } from "./context/AuhtContext";
 
